@@ -21,9 +21,9 @@ This project is a library management system built as a C# application. It allows
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/username/repository.git
+    git clone https://github.com/Augustusen/knjizinica.git
     ```
-
+    
 2. Open the project in Visual Studio.
 
 3. Build and run the application.
@@ -35,7 +35,7 @@ This project is a library management system built as a C# application. It allows
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/username/repository.git
+    git clone https://github.com/Augustusen/knjiznica.git
     ```
 
 2. Open the solution file in Visual Studio.
